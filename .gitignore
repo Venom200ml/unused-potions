@@ -452,3 +452,6 @@ gen
 
 # exclude runConfigurations
 !.idea/runConfigurations
+
+# project builded files
+run
