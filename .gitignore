@@ -455,3 +455,6 @@ gen
 
 # project builded files
 run
+
+# empty file
+**/.empty
